@@ -7,8 +7,9 @@ PLC work:
 
 Paid work:
   * work packages approved as paid work by all members of TLC + 2 members of TLC while the person the package targets refrains from the vote
-  * work packages describe hours invoicable per week and apply at most a period of 6 months
-  * for work packages longer than one month, a report of results is provided to PLC once a month
+  * work packages describe hours invoicable per week and apply at most a period of 6 months, frame of ending a contract is one week
+  * for work packages longer than one month, a report of results is provided to PLC weekly
+  * set up a budget for how much we invest in this a year and promote the opportunity in community to make access to it fair
 
 Unpaid work:
   * any work people choose to volunteer to contribute to the project without paid work agreement
