@@ -4,6 +4,7 @@ PLC members can never be paid for PLC work. However, when same people engage in 
 
 PLC work:
   * preparing and taking decisions to advance state of project in PLC meetings
+  * representing Se-project in SFC and TLC meetings
 
 Paid work:
   * work packages approved as paid work by all members of TLC + 2 members of TLC while the person the package targets refrains from the vote
